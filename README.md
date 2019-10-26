@@ -1,7 +1,7 @@
 # Denosing
 ![](https://img.shields.io/github/license/P3n9W31/Denoising?style=flat-square)
 
-Image denosing with Convolutional neural network.
+Image denoising with Convolutional neural network.
 
 ## Network
 ```
